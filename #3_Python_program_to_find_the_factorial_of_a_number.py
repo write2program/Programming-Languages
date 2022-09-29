@@ -9,8 +9,7 @@ else:
        factorial = factorial*i
    print("Factorial of",num,"is",factorial)
 """
-Output: Enter a number: 5
-        Factorial of 5 is 120
+Output: 
+Enter a number: 5
+Factorial of 5 is 120
 """
-   
-# Python program to find the factorial of a number provided by the user.
