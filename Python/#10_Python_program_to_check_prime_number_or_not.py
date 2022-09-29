@@ -11,5 +11,6 @@ else:
    print(num,"is not a prime number")
 """
 Output:
-
+Enter a number: 3
+3 is a prime number
 """
